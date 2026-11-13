@@ -1,0 +1,3 @@
+‘Squares have been arrangedin these patterns:
+How many squares would there be in Pattern 6?
+20 2 2 By

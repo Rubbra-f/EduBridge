@@ -1,0 +1,14 @@
+I= Eedi EB
+If the original shape is this: But if the shape changes to this:
+
+@
+
+@ @
+
+@ @
+
+eee eee
+There are 402 dots in Pattern 100 | How many dots would there
+
+be in Pattern 100 now?
+302 401 400 398

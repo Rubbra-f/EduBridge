@@ -1,0 +1,1 @@
+# EduBridge API\n\nFastAPI adapter for the finalIL P-DINA service. Set `EDUBRIDGE_API_KEY`, `EDUBRIDGE_CORS_ORIGINS`, and run with Docker Compose from the repository root. See `docs/INTEGRATION.md`.\n

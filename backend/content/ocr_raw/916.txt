@@ -1,0 +1,9 @@
+I= Eedi EB
+Dots have been arranged in these patterns:
+@ @e@ eee e000
+e@ ee eee eeoe
+e ee eee eeoe
+ee) ) ©0000 2000080
+Pattern 1 Pattern 2 Pattern 3 Pattern 4
+How many dots would there be in Pattern n?
+4n+2 4n—2 an+4 n+2

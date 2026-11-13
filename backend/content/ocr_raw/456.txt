@@ -1,0 +1,10 @@
+I= Eedi EB
+Tom and Katie are arguing about midpoints.
+Mis the midpoint between points P and Q.
+Tom says if you know the location of M only, then there is more than one
+possible location for P and Q.
+Katie says if you only know the locations of M and Q, then there is more than
+‘one possible location for P.
+Who is correct?
+Only Only Both Tom Neither is
+Tom Katie and Katie correct

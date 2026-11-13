@@ -1,0 +1,6 @@
+I= Eedi EB
+What is the area of the rectangle enclosed by the
+following 4 lines?
+x=4 y=2 x=-1 y=6
+12 units? 14 units? 20 units? We needimore
+information

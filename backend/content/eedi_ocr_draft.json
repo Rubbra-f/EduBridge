@@ -1,0 +1,1340 @@
+{
+  "source": "Eedi NeurIPS 2020",
+  "assessment_id": "eedi_pdina_fixed_v1",
+  "count": 52,
+  "note": "OCR draft only. Question text and options require visual verification.",
+  "items": [
+    {
+      "question_id": 137,
+      "concept_id": 70,
+      "concept_name": "Writing Expressions",
+      "correct_answer": 1,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi =",
+        "Jo and Paul are trying to draw shapes",
+        "with perimeter 4(p + q)",
+        "Jo draws: Paul draws: —s Nf s",
+        ": : . . oDPe De",
+        "° ° e e",
+        "ae ae",
+        "nnd ° be Side lengths",
+        "Who is correct?",
+        "Only Only Both Jo Neither is",
+        "Jo Paul and Paul correct"
+      ],
+      "ocr_raw": "I= Eedi =\nJo and Paul are trying to draw shapes\nwith perimeter 4(p + q)\nJo draws: Paul draws: —s Nf s\n: : . . oDPe De\n° ° e e\nae ae\nnnd ° be Side lengths\nWho is correct?\nOnly Only Both Jo Neither is\nJo Paul and Paul correct",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 82,
+      "concept_id": 251,
+      "concept_name": "Simplifying Expressions by Collecting Like Terms",
+      "correct_answer": 4,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "Which expression should [|",
+        "replace the star in the",
+        "addition pyramid? ‘ y",
+        "Lm [n+ J aenay",
+        "4a — 3b —2ab 4a —4b 2a-b"
+      ],
+      "ocr_raw": "I= Eedi EB\nWhich expression should [|\nreplace the star in the\naddition pyramid? ‘ y\nLm [n+ J aenay\n4a — 3b —2ab 4a —4b 2a-b",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 90,
+      "concept_id": 67,
+      "concept_name": "Substitution into Formula",
+      "correct_answer": 1,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "ab ax¢ at+b",
+        "What symbol should replace the star?",
+        "Need more",
+        "> < =",
+        "information"
+      ],
+      "ocr_raw": "I= Eedi EB\nab ax¢ at+b\nWhat symbol should replace the star?\nNeed more\n> < =\ninformation",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 193,
+      "concept_id": 52,
+      "concept_name": "Factorising into a Single Bracket",
+      "correct_answer": 3,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "Tom and Katie are arguing about different",
+        "ways of writing the expression on the right.",
+        "12g +20",
+        "Tom says you could write it as:",
+        "2(6g + 10)",
+        "Katie says you could write it as :",
+        "4(3g +5)",
+        "Who is correct?",
+        "Only Only Both Tom Neither is",
+        "Tom Katie and Katie correct"
+      ],
+      "ocr_raw": "I= Eedi EB\nTom and Katie are arguing about different\nways of writing the expression on the right.\n12g +20\nTom says you could write it as:\n2(6g + 10)\nKatie says you could write it as :\n4(3g +5)\nWho is correct?\nOnly Only Both Tom Neither is\nTom Katie and Katie correct",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 859,
+      "concept_id": 64,
+      "concept_name": "Linear Equations",
+      "correct_answer": 3,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "Tom and Katie are arguing about equations they",
+        "can write based on the equation on the right.",
+        "Tom says you could write: 3c — 20 =d —20",
+        "Katie says you could write: 12c = 4d",
+        "Who is correct?",
+        "Only Only Both Tom Neither is",
+        "Tom Katie and Katie correct"
+      ],
+      "ocr_raw": "I= Eedi EB\nTom and Katie are arguing about equations they\n\ncan write based on the equation on the right.\n\nTom says you could write: 3c — 20 =d —20\n\nKatie says you could write: 12c = 4d\nWho is correct?\nOnly Only Both Tom Neither is\nTom Katie and Katie correct",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 465,
+      "concept_id": 166,
+      "concept_name": "Solving Linear Inequalities",
+      "correct_answer": 2,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "Bren",
+        "Using the diagram, which of",
+        "the following correctly",
+        "completes the inequality",
+        "above?",
+        "JP 9 rw",
+        "BE Goo",
+        "P..g,7 and w are positive numbers.",
+        "29 2p 6w 4w"
+      ],
+      "ocr_raw": "I= Eedi EB\nBren\nUsing the diagram, which of\nthe following correctly\ncompletes the inequality\n\nabove?\n\nJP 9 rw\n\nBE Goo\n\nP..g,7 and w are positive numbers.\n\n29 2p 6w 4w",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 570,
+      "concept_id": 171,
+      "concept_name": "Linear Sequences (nth term)",
+      "correct_answer": 1,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "Dots have been arranged in these patterns:",
+        "@ @e@ eee e000",
+        "e@ ee eee eeoe",
+        "e ee eee eeoe",
+        "ee) ) ©0000 2000080",
+        "Pattern 1 Pattern 2 Pattern 3 Pattern 4",
+        "How many dots would there be in Pattern 6?",
+        "26 20 36 22"
+      ],
+      "ocr_raw": "I= Eedi EB\nDots have been arranged in these patterns:\n@ @e@ eee e000\ne@ ee eee eeoe\ne ee eee eeoe\nee) ) ©0000 2000080\nPattern 1 Pattern 2 Pattern 3 Pattern 4\nHow many dots would there be in Pattern 6?\n26 20 36 22",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 900,
+      "concept_id": 406,
+      "concept_name": "Naming Co-ordinates in 2D",
+      "correct_answer": 1,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "y What are the co-ordinates",
+        "nan 4 rr of the marked point?",
+        "[TTT TTT rr @e~",
+        "PT tte tt",
+        "CEEPEEEEE, @ «",
+        "POPPE @ ow",
+        "[Tt Ty Tt tT",
+        "PTET @ cr",
+        "em"
+      ],
+      "ocr_raw": "y What are the co-ordinates\nnan 4 rr of the marked point?\n[TTT TTT rr @e~\nPT tte tt\nCEEPEEEEE, @ «\nPOPPE @ ow\n[Tt Ty Tt tT\nPTET @ cr\n\nem",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 489,
+      "concept_id": 408,
+      "concept_name": "Midpoint Between Two Co-ordinates",
+      "correct_answer": 2,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "ever",
+        "(-2,-8) and (-8,-2)?",
+        "© © © 0",
+        "(0,0) (-5,-5) (-2,0), (-6,-6)",
+        "mm"
+      ],
+      "ocr_raw": "ever\n(-2,-8) and (-8,-2)?\n© © © 0\n(0,0) (-5,-5) (-2,0), (-6,-6)\nmm",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 10,
+      "concept_id": 258,
+      "concept_name": "Horizontal and Vertical Lines",
+      "correct_answer": 1,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi A",
+        "What is the equation of",
+        "this line of symmetry?",
+        "e-~",
+        "(-4,-2) (2, -2)",
+        "o--",
+        "(4.5) es",
+        "o-",
+        "Co } Not possible",
+        "to work out"
+      ],
+      "ocr_raw": "I= Eedi A\nWhat is the equation of\nthis line of symmetry?\ne-~\n(-4,-2) (2, -2)\no--\n(4.5) es\no-\nCo } Not possible\nto work out",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 398,
+      "concept_id": 409,
+      "concept_name": "Gradient Between Two Co-ordinates",
+      "correct_answer": 3,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi BE",
+        "Jo and Paul are arguing about {notto scale}",
+        "the line segments on the",
+        "right. y",
+        "Jo says they are parallel. (4,4)",
+        "BD",
+        "Paul says they are the same x",
+        "length.",
+        "5,-1)",
+        "Who is correct? a)",
+        "Only Only Both Jo Neither is",
+        "Jo Paul and Paul correct"
+      ],
+      "ocr_raw": "I= Eedi BE\nJo and Paul are arguing about {notto scale}\nthe line segments on the\nright. y\nJo says they are parallel. (4,4)\nBD\nPaul says they are the same x\nlength.\n5,-1)\nWho is correct? a)\nOnly Only Both Jo Neither is\nJo Paul and Paul correct",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 781,
+      "concept_id": 70,
+      "concept_name": "Writing Expressions",
+      "correct_answer": 4,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "3r=",
+        "Using the diagram, which of",
+        "the following correctly",
+        "completes the equation",
+        "above?",
+        "JP 9 rw",
+        "BE Goo",
+        "P 3w 2p 29"
+      ],
+      "ocr_raw": "I= Eedi EB\n3r=\nUsing the diagram, which of\nthe following correctly\ncompletes the equation\nabove?\nJP 9 rw\nBE Goo\nP 3w 2p 29",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 551,
+      "concept_id": 251,
+      "concept_name": "Simplifying Expressions by Collecting Like Terms",
+      "correct_answer": 1,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "Which expression should [|",
+        "replace the star in the",
+        "addition pyramid? ‘ y",
+        "Cn Lo Tuer)",
+        "4a +3b 7a+7b 7ab 7a + 4b"
+      ],
+      "ocr_raw": "I= Eedi EB\nWhich expression should [|\nreplace the star in the\naddition pyramid? ‘ y\nCn Lo Tuer)\n4a +3b 7a+7b 7ab 7a + 4b",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 502,
+      "concept_id": 67,
+      "concept_name": "Substitution into Formula",
+      "correct_answer": 1,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi |",
+        "Which of the following statements is true",
+        "whenn = 1.5?",
+        "Sn>n+5 Sn<nt+5 Sn=n+5 Not enough",
+        "information"
+      ],
+      "ocr_raw": "I= Eedi |\nWhich of the following statements is true\nwhenn = 1.5?\nSn>n+5 Sn<nt+5 Sn=n+5 Not enough\ninformation",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 30,
+      "concept_id": 52,
+      "concept_name": "Factorising into a Single Bracket",
+      "correct_answer": 1,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "Tom and Katie are talking about different ways",
+        "of writing the expression on the right.",
+        "8g + 20",
+        "Tom says you could write it as: 2(4g + 10)",
+        "Katie says you could write it as : 8(g + 5)",
+        "Who is correct?",
+        "Only Only Both Tom Neither is",
+        "Tom Katie and Katie correct"
+      ],
+      "ocr_raw": "I= Eedi EB\nTom and Katie are talking about different ways\nof writing the expression on the right.\n8g + 20\nTom says you could write it as: 2(4g + 10)\nKatie says you could write it as : 8(g + 5)\nWho is correct?\nOnly Only Both Tom Neither is\nTom Katie and Katie correct",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 433,
+      "concept_id": 64,
+      "concept_name": "Linear Equations",
+      "correct_answer": 2,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "Tom and Katie are arguing about equations",
+        "they can write based on the equation on the",
+        "Tom says you could write: g -2=2—4h",
+        "Katie says you could write: 0.5g = 2h",
+        "Who is correct?",
+        "Only Only Both Tom Neither is",
+        "Tom Katie and Katie correct"
+      ],
+      "ocr_raw": "I= Eedi EB\nTom and Katie are arguing about equations\nthey can write based on the equation on the\nTom says you could write: g -2=2—4h\nKatie says you could write: 0.5g = 2h\nWho is correct?\nOnly Only Both Tom Neither is\nTom Katie and Katie correct",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 118,
+      "concept_id": 166,
+      "concept_name": "Solving Linear Inequalities",
+      "correct_answer": 4,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "Using the diagram, which of",
+        "the following correctly",
+        "completes the inequality",
+        "above?",
+        "JP 9 rw",
+        "BE Goo",
+        "P..g,7 and w are positive numbers.",
+        "2p 3r 4r 3g"
+      ],
+      "ocr_raw": "I= Eedi EB\nUsing the diagram, which of\nthe following correctly\ncompletes the inequality\nabove?\n\nJP 9 rw\nBE Goo\n\nP..g,7 and w are positive numbers.\n\n2p 3r 4r 3g",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 782,
+      "concept_id": 171,
+      "concept_name": "Linear Sequences (nth term)",
+      "correct_answer": 1,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "‘Squares have been arrangedin these patterns:",
+        "How many squares would there be in Pattern 6?",
+        "20 2 2 By"
+      ],
+      "ocr_raw": "‘Squares have been arrangedin these patterns:\nHow many squares would there be in Pattern 6?\n20 2 2 By",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 872,
+      "concept_id": 406,
+      "concept_name": "Naming Co-ordinates in 2D",
+      "correct_answer": 4,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi B",
+        "y",
+        "+ Here are 3",
+        "“ y vertices of a",
+        "5 ° rectangle.",
+        "é 2",
+        "ee Whatare the",
+        "* coordinates of",
+        "t . the 4\" vertex?",
+        "(-1,-10) (-9,1) (-10,-1) (10,0)"
+      ],
+      "ocr_raw": "I= Eedi B\ny\n+ Here are 3\n“ y vertices of a\n5 ° rectangle.\né 2\nee Whatare the\n* coordinates of\nt . the 4\" vertex?\n(-1,-10) (-9,1) (-10,-1) (10,0)",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 267,
+      "concept_id": 408,
+      "concept_name": "Midpoint Between Two Co-ordinates",
+      "correct_answer": 1,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "Points V, W, X, Y and Z are",
+        "y all equally spaced along",
+        "Zz the line.",
+        "Y",
+        "x The coordinates of W are",
+        "shown.",
+        "w shown.",
+        "v, (8.5) What are the coordinates",
+        "x of Y?",
+        "(24,15) (16,10) (4,2.5) (32,20)"
+      ],
+      "ocr_raw": "Points V, W, X, Y and Z are\ny all equally spaced along\nZz the line.\nY\nx The coordinates of W are\nshown.\nw shown.\nv, (8.5) What are the coordinates\nx of Y?\n(24,15) (16,10) (4,2.5) (32,20)",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 354,
+      "concept_id": 258,
+      "concept_name": "Horizontal and Vertical Lines",
+      "correct_answer": 4,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi BR",
+        "What is the equation",
+        "of this line?",
+        "y",
+        ") e-",
+        ": O--",
+        "= 2 4 3 2 7 8 7 ? > 7 = x",
+        "or",
+        "eo"
+      ],
+      "ocr_raw": "I= Eedi BR\nWhat is the equation\nof this line?\ny\n) e-\n: O--\n= 2 4 3 2 7 8 7 ? > 7 = x\nor\neo",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 565,
+      "concept_id": 409,
+      "concept_name": "Gradient Between Two Co-ordinates",
+      "correct_answer": 2,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi BE",
+        "Tom and Katie are arguing y a",
+        "about the line segments on .",
+        "the right. .",
+        "Tom says they are parallel. es 4 .",
+        "Katie says they are the same ’",
+        "length. aaa a ae",
+        "Who is correct? ao,",
+        "Only Only Both Tom Neither is",
+        "Tom Katie and Katie correct"
+      ],
+      "ocr_raw": "I= Eedi BE\nTom and Katie are arguing y a\nabout the line segments on .\nthe right. .\nTom says they are parallel. es 4 .\nKatie says they are the same ’\nlength. aaa a ae\nWho is correct? ao,\nOnly Only Both Tom Neither is\nTom Katie and Katie correct",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 885,
+      "concept_id": 70,
+      "concept_name": "Writing Expressions",
+      "correct_answer": 1,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "Q2w+r=..",
+        "Using the diagram, which of",
+        "the following correctly",
+        "completes the equation",
+        "above?",
+        "JP 9 rw",
+        "BE Goo",
+        "p",
+        "4 2 =",
+        "P ip p 5"
+      ],
+      "ocr_raw": "I= Eedi EB\nQ2w+r=..\nUsing the diagram, which of\nthe following correctly\ncompletes the equation\nabove?\nJP 9 rw\nBE Goo\np\n4 2 =\nP ip p 5",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 370,
+      "concept_id": 251,
+      "concept_name": "Simplifying Expressions by Collecting Like Terms",
+      "correct_answer": 2,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "Which expression should [ ¥ |",
+        "replace the star in the ( [30+ 40 |",
+        "addition pyramid? v y",
+        "Ce Tue)",
+        "6a+5b 7a+7b 14ab 10a + 8b"
+      ],
+      "ocr_raw": "I= Eedi EB\nWhich expression should [ ¥ |\nreplace the star in the ( [30+ 40 |\naddition pyramid? v y\nCe Tue)\n6a+5b 7a+7b 14ab 10a + 8b",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 834,
+      "concept_id": 67,
+      "concept_name": "Substitution into Formula",
+      "correct_answer": 2,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "ab ax¢ at+b",
+        "What symbol should replace the star?",
+        "Need more",
+        "> < =",
+        "information"
+      ],
+      "ocr_raw": "I= Eedi EB\nab ax¢ at+b\nWhat symbol should replace the star?\nNeed more\n> < =\ninformation",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 550,
+      "concept_id": 52,
+      "concept_name": "Factorising into a Single Bracket",
+      "correct_answer": 2,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "Using the key on the right, which of the",
+        "following expressions give the perimeter",
+        "of this shape in factorised form? oo. e",
+        ". oPe ! De",
+        "ee",
+        "ae",
+        "Side lengths",
+        ". .",
+        "6p + 4q 2(3p + 2q) 6(p +4) 2(3p + 4q)"
+      ],
+      "ocr_raw": "I= Eedi EB\n\nUsing the key on the right, which of the\nfollowing expressions give the perimeter\n\nof this shape in factorised form? oo. e\n\n. oPe ! De\n\nee\nae\nSide lengths\n. .\n6p + 4q 2(3p + 2q) 6(p +4) 2(3p + 4q)",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 555,
+      "concept_id": 64,
+      "concept_name": "Linear Equations",
+      "correct_answer": 2,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "Tom and Katie are arguing about equations",
+        "they can write based on the equation on the",
+        "=",
+        "Tom says you could write: g -1=1-—6p",
+        "Katie says you could write: 29 =p",
+        "Who is correct?",
+        "Only Only Both Tom Neither is",
+        "Tom Katie and Katie correct"
+      ],
+      "ocr_raw": "I= Eedi EB\nTom and Katie are arguing about equations\nthey can write based on the equation on the\n=\nTom says you could write: g -1=1-—6p\nKatie says you could write: 29 =p\nWho is correct?\nOnly Only Both Tom Neither is\nTom Katie and Katie correct",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 38,
+      "concept_id": 166,
+      "concept_name": "Solving Linear Inequalities",
+      "correct_answer": 4,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "Tom and Katie are arguing",
+        "about creating inequalities",
+        "using the diagram on the",
+        "right.",
+        "Tom says: 5g > 4p",
+        "Katie says: 5g <7r PO GF rw",
+        "BE Goo",
+        "Who is correct? vas",
+        "P..g,7 and w are positive numbers.",
+        "Only Only Both Tom Neither is",
+        "Tom Katie and Katie correct"
+      ],
+      "ocr_raw": "I= Eedi EB\nTom and Katie are arguing\nabout creating inequalities\nusing the diagram on the\nright.\nTom says: 5g > 4p\nKatie says: 5g <7r PO GF rw\nBE Goo\nWho is correct? vas\nP..g,7 and w are positive numbers.\nOnly Only Both Tom Neither is\nTom Katie and Katie correct",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 716,
+      "concept_id": 171,
+      "concept_name": "Linear Sequences (nth term)",
+      "correct_answer": 1,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "If the original shape is this: But if the shape changes to this:",
+        "@",
+        "@ @",
+        "@ @",
+        "eee eee",
+        "There are 402 dots in Pattern 100 | How many dots would there",
+        "be in Pattern 100 now?",
+        "302 401 400 398"
+      ],
+      "ocr_raw": "I= Eedi EB\nIf the original shape is this: But if the shape changes to this:\n\n@\n\n@ @\n\n@ @\n\neee eee\nThere are 402 dots in Pattern 100 | How many dots would there\n\nbe in Pattern 100 now?\n302 401 400 398",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 891,
+      "concept_id": 406,
+      "concept_name": "Naming Co-ordinates in 2D",
+      "correct_answer": 4,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "What shape do you get if",
+        "you join up the midpoints of",
+        "the sides of this shape?",
+        "6 Square",
+        "oe Rhombus",
+        "© Kite",
+        "Co } Rectangle"
+      ],
+      "ocr_raw": "I= Eedi EB\n\nWhat shape do you get if\n\nyou join up the midpoints of\nthe sides of this shape?\n\n6 Square\n\noe Rhombus\n\n© Kite\n\nCo } Rectangle",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 498,
+      "concept_id": 408,
+      "concept_name": "Midpoint Between Two Co-ordinates",
+      "correct_answer": 1,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "What is the midpoint of",
+        "(4,3) and (1,-5)?",
+        "Impossible as you can’t",
+        "(2.5,-1) (5-2) (2.5,-4) have a decimal",
+        "coordinate"
+      ],
+      "ocr_raw": "I= Eedi EB\nWhat is the midpoint of\n(4,3) and (1,-5)?\nImpossible as you can’t\n(2.5,-1) (5-2) (2.5,-4) have a decimal\ncoordinate",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 162,
+      "concept_id": 258,
+      "concept_name": "Horizontal and Vertical Lines",
+      "correct_answer": 3,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi A",
+        "What is the equation of",
+        "this line of symmetry?",
+        "4.2) 22) © x=-3.5",
+        "e-",
+        "(4,5) 2.8)",
+        "e-",
+        "o-:"
+      ],
+      "ocr_raw": "I= Eedi A\nWhat is the equation of\nthis line of symmetry?\n4.2) 22) © x=-3.5\ne-\n(4,5) 2.8)\ne-\no-:",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 808,
+      "concept_id": 70,
+      "concept_name": "Writing Expressions",
+      "correct_answer": 1,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "Tom and Katie are arguing",
+        "about creating equations",
+        "using the diagram on the",
+        "right.",
+        "Tom says: w = 7",
+        "Katie says: w = 4p PO 9 rw",
+        "BE Goo",
+        "Who is correct?",
+        "Only Only Both Tom Neither is",
+        "Tom Katie and Katie correct"
+      ],
+      "ocr_raw": "I= Eedi EB\nTom and Katie are arguing\nabout creating equations\nusing the diagram on the\nright.\nTom says: w = 7\nKatie says: w = 4p PO 9 rw\nBE Goo\nWho is correct?\nOnly Only Both Tom Neither is\nTom Katie and Katie correct",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 658,
+      "concept_id": 251,
+      "concept_name": "Simplifying Expressions by Collecting Like Terms",
+      "correct_answer": 1,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "Jo and Paul are arguing about this",
+        "expression: 4p + 2q + 3q—p",
+        "Jo says you can write it as: 3p + 5q",
+        "Paul says you can write it as: 6pq + 2pq",
+        "Who is correct?",
+        "Only Only Both Jo Neither is",
+        "Jo Paul and Paul correct"
+      ],
+      "ocr_raw": "I= Eedi EB\nJo and Paul are arguing about this\nexpression: 4p + 2q + 3q—p\nJo says you can write it as: 3p + 5q\nPaul says you can write it as: 6pq + 2pq\nWho is correct?\nOnly Only Both Jo Neither is\nJo Paul and Paul correct",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 217,
+      "concept_id": 67,
+      "concept_name": "Substitution into Formula",
+      "correct_answer": 1,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "k<241 k k k",
+        "Using the diagram on the P|",
+        "right, is the expression a",
+        "above... m",
+        "always sometimes never Need more",
+        "true true true information"
+      ],
+      "ocr_raw": "I= Eedi EB\nk<241 k k k\nUsing the diagram on the P|\nright, is the expression a\nabove... m\nalways sometimes never Need more\ntrue true true information",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 291,
+      "concept_id": 52,
+      "concept_name": "Factorising into a Single Bracket",
+      "correct_answer": 3,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "Using the key on the right, which of the",
+        "following expressions give the perimeter",
+        "of this shape in factorised form? oo. e",
+        "ee oPe ! De",
+        "e. Ss cA",
+        ". qd qe",
+        "Side lengths",
+        "ee",
+        "6p + 2q 6 +4) 2p +4) 2(@p + 2q)"
+      ],
+      "ocr_raw": "I= Eedi EB\n\nUsing the key on the right, which of the\nfollowing expressions give the perimeter\n\nof this shape in factorised form? oo. e\n\nee oPe ! De\n\ne. Ss cA\n\n. qd qe\n\nSide lengths\nee\n6p + 2q 6 +4) 2p +4) 2(@p + 2q)",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 54,
+      "concept_id": 64,
+      "concept_name": "Linear Equations",
+      "correct_answer": 4,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "Jo and Paul are talking about equations they",
+        "can write based on the equation on the right.",
+        "Jo says you could write: 4c -12 =d—4",
+        "Paul says you could write: 12c = 4d",
+        "Who is correct?",
+        "Only Only Both Jo Neither is",
+        "Jo Paul and Paul correct"
+      ],
+      "ocr_raw": "I= Eedi EB\nJo and Paul are talking about equations they\ncan write based on the equation on the right.\nJo says you could write: 4c -12 =d—4\nPaul says you could write: 12c = 4d\nWho is correct?\nOnly Only Both Jo Neither is\nJo Paul and Paul correct",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 404,
+      "concept_id": 166,
+      "concept_name": "Solving Linear Inequalities",
+      "correct_answer": 2,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "Using the key on the right,",
+        "which of the following",
+        "symbols should replace the e :. = e",
+        "star in terms of length? 7 Ne Pp l P",
+        "o/ee oe .",
+        "e e % e e",
+        "ar yeptqy © NX i",
+        "eee . 4",
+        "Need more",
+        "> < =",
+        "information"
+      ],
+      "ocr_raw": "I= Eedi EB\nUsing the key on the right,\nwhich of the following\nsymbols should replace the e :. = e\nstar in terms of length? 7 Ne Pp l P\no/ee oe .\ne e % e e\nar yeptqy © NX i\neee . 4\nNeed more\n> < =\ninformation",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 916,
+      "concept_id": 171,
+      "concept_name": "Linear Sequences (nth term)",
+      "correct_answer": 1,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "Dots have been arranged in these patterns:",
+        "@ @e@ eee e000",
+        "e@ ee eee eeoe",
+        "e ee eee eeoe",
+        "ee) ) ©0000 2000080",
+        "Pattern 1 Pattern 2 Pattern 3 Pattern 4",
+        "How many dots would there be in Pattern n?",
+        "4n+2 4n—2 an+4 n+2"
+      ],
+      "ocr_raw": "I= Eedi EB\nDots have been arranged in these patterns:\n@ @e@ eee e000\ne@ ee eee eeoe\ne ee eee eeoe\nee) ) ©0000 2000080\nPattern 1 Pattern 2 Pattern 3 Pattern 4\nHow many dots would there be in Pattern n?\n4n+2 4n—2 an+4 n+2",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 384,
+      "concept_id": 406,
+      "concept_name": "Naming Co-ordinates in 2D",
+      "correct_answer": 4,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "y The two marked points are",
+        "4 a from the",
+        "LE Et ty yy over.",
+        "| | ft rt tt 8 Parallel",
+        "PT tte tt",
+        "Tg, © eww",
+        "4 3 2 ~ 0 1 4",
+        "LT TEE tc) Perpendicular",
+        "[TTP gt TT",
+        "ae ane @ Equidistant",
+        "em"
+      ],
+      "ocr_raw": "y The two marked points are\n4 a from the\nLE Et ty yy over.\n| | ft rt tt 8 Parallel\nPT tte tt\nTg, © eww\n4 3 2 ~ 0 1 4\nLT TEE tc) Perpendicular\n[TTP gt TT\nae ane @ Equidistant\nem",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 456,
+      "concept_id": 408,
+      "concept_name": "Midpoint Between Two Co-ordinates",
+      "correct_answer": 1,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "Tom and Katie are arguing about midpoints.",
+        "Mis the midpoint between points P and Q.",
+        "Tom says if you know the location of M only, then there is more than one",
+        "possible location for P and Q.",
+        "Katie says if you only know the locations of M and Q, then there is more than",
+        "‘one possible location for P.",
+        "Who is correct?",
+        "Only Only Both Tom Neither is",
+        "Tom Katie and Katie correct"
+      ],
+      "ocr_raw": "I= Eedi EB\nTom and Katie are arguing about midpoints.\nMis the midpoint between points P and Q.\nTom says if you know the location of M only, then there is more than one\npossible location for P and Q.\nKatie says if you only know the locations of M and Q, then there is more than\n‘one possible location for P.\nWho is correct?\nOnly Only Both Tom Neither is\nTom Katie and Katie correct",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 725,
+      "concept_id": 258,
+      "concept_name": "Horizontal and Vertical Lines",
+      "correct_answer": 3,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "What is the area of the rectangle enclosed by the",
+        "following 4 lines?",
+        "x=5 y=-2 x=1 y=-4",
+        "24 units? 15 units? 8 units? We needimore",
+        "information"
+      ],
+      "ocr_raw": "I= Eedi EB\nWhat is the area of the rectangle enclosed by the\nfollowing 4 lines?\nx=5 y=-2 x=1 y=-4\n24 units? 15 units? 8 units? We needimore\ninformation",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 572,
+      "concept_id": 70,
+      "concept_name": "Writing Expressions",
+      "correct_answer": 4,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "Tom and Katie are trying to draw",
+        "shapes with perimeter 4(p + 2q)",
+        "Tom draws: Katie draws: —s s",
+        "eo ee . . Pe De",
+        "7 ° : e e",
+        "oe . IN Al",
+        "eo ee . .",
+        "Side lengths",
+        "Who is correct?",
+        "Only Only Both Tom Neither is",
+        "Tom Katie and Katie correct"
+      ],
+      "ocr_raw": "I= Eedi EB\nTom and Katie are trying to draw\nshapes with perimeter 4(p + 2q)\nTom draws: Katie draws: —s s\neo ee . . Pe De\n7 ° : e e\noe . IN Al\neo ee . .\nSide lengths\nWho is correct?\nOnly Only Both Tom Neither is\nTom Katie and Katie correct",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 335,
+      "concept_id": 251,
+      "concept_name": "Simplifying Expressions by Collecting Like Terms",
+      "correct_answer": 4,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi B",
+        "4a+6b-4=",
+        "6b 10ab —4 6+at+b Cannot be",
+        "simplified"
+      ],
+      "ocr_raw": "I= Eedi B\n4a+6b-4=\n6b 10ab —4 6+at+b Cannot be\nsimplified",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 210,
+      "concept_id": 67,
+      "concept_name": "Substitution into Formula",
+      "correct_answer": 1,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi =",
+        "3k-2<m k k k",
+        "SS",
+        "Using the diagram on the a",
+        "right, is the expression a",
+        "above... m",
+        "always sometimes never Need more",
+        "true true true information"
+      ],
+      "ocr_raw": "I= Eedi =\n3k-2<m k k k\nSS\nUsing the diagram on the a\nright, is the expression a\nabove... m\nalways sometimes never Need more\ntrue true true information",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 523,
+      "concept_id": 52,
+      "concept_name": "Factorising into a Single Bracket",
+      "correct_answer": 1,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "Using the key on the right, which of the",
+        "following expressions gives the",
+        "perimeter of this shape in factorised",
+        "form? -—* if °",
+        ". oPe De",
+        "ee",
+        "ae",
+        "Side lengths",
+        ".",
+        "4(2p +9) 8(p + 2q) 8p + 4q 4(2p + 4q)"
+      ],
+      "ocr_raw": "I= Eedi EB\nUsing the key on the right, which of the\nfollowing expressions gives the\n\nperimeter of this shape in factorised\n\nform? -—* if °\n\n. oPe De\n\nee\nae\nSide lengths\n.\n4(2p +9) 8(p + 2q) 8p + 4q 4(2p + 4q)",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 279,
+      "concept_id": 64,
+      "concept_name": "Linear Equations",
+      "correct_answer": 3,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "Jo and Paul are talking about equations they",
+        "can write based on the equation on the right.",
+        "2g = 6h",
+        "Jo says you could write: g +5 =5+3h",
+        "Paul says you could write: 3g = 9h",
+        "Who is correct?",
+        "Only Only Both Jo Neither is",
+        "Jo Paul and Paul correct"
+      ],
+      "ocr_raw": "I= Eedi EB\nJo and Paul are talking about equations they\ncan write based on the equation on the right.\n2g = 6h\nJo says you could write: g +5 =5+3h\nPaul says you could write: 3g = 9h\nWho is correct?\nOnly Only Both Jo Neither is\nJo Paul and Paul correct",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 230,
+      "concept_id": 166,
+      "concept_name": "Solving Linear Inequalities",
+      "correct_answer": 1,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "Using the key on the right,",
+        "which of the following",
+        "symbols should replace the e :. = e",
+        "star in terms of length? i Ne Pp l Pp",
+        "o/ee oe .",
+        "p+q * r . ‘ oe",
+        "uiN NL",
+        "Need more",
+        "> < =",
+        "information"
+      ],
+      "ocr_raw": "I= Eedi EB\nUsing the key on the right,\nwhich of the following\nsymbols should replace the e :. = e\nstar in terms of length? i Ne Pp l Pp\no/ee oe .\np+q * r . ‘ oe\nuiN NL\nNeed more\n> < =\ninformation",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 124,
+      "concept_id": 171,
+      "concept_name": "Linear Sequences (nth term)",
+      "correct_answer": 2,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "Jo and Paul are arguing about the best way to a",
+        "caunttenumberfsqresi tens. lilly",
+        "rramecaseayxa—« ii",
+        "ocr?",
+        "ty yah ter",
+        "a"
+      ],
+      "ocr_raw": "Jo and Paul are arguing about the best way to a\ncaunttenumberfsqresi tens. lilly\nrramecaseayxa—« ii\nocr?\nty yah ter\na",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 437,
+      "concept_id": 406,
+      "concept_name": "Naming Co-ordinates in 2D",
+      "correct_answer": 3,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "a",
+        "Joanne dcusng dtc adorns",
+        "sos) andar els om tern",
+        "Paul says (—5, ~2) and (2,5) are equidistant from the origin.",
+        "Moscone?",
+        "o 808 68 0",
+        "ou othe tt",
+        "en",
+        "<< —"
+      ],
+      "ocr_raw": "a\nJoanne dcusng dtc adorns\nsos) andar els om tern\nPaul says (—5, ~2) and (2,5) are equidistant from the origin.\n\nMoscone?\n\no 808 68 0\nou othe tt\nen\n\n<< —",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 63,
+      "concept_id": 408,
+      "concept_name": "Midpoint Between Two Co-ordinates",
+      "correct_answer": 4,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "te Points P, Qand are",
+        "(27) ‘equally spaced along the line",
+        "segment, as shown in the",
+        "sketch,",
+        "a ‘The coordinates of P and R",
+        "‘are matked onthe diagram.",
+        "P",
+        "arto) ‘What are the coordinates",
+        "ofa?",
+        "Cit) 2-3) C42) C15)"
+      ],
+      "ocr_raw": "te Points P, Qand are\n(27) ‘equally spaced along the line\nsegment, as shown in the\nsketch,\na ‘The coordinates of P and R\n‘are matked onthe diagram.\nP\narto) ‘What are the coordinates\nofa?\nCit) 2-3) C42) C15)",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "question_id": 641,
+      "concept_id": 258,
+      "concept_name": "Horizontal and Vertical Lines",
+      "correct_answer": 3,
+      "question_text": null,
+      "options": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null
+      },
+      "ocr_lines": [
+        "I= Eedi EB",
+        "What is the area of the rectangle enclosed by the",
+        "following 4 lines?",
+        "x=4 y=2 x=-1 y=6",
+        "12 units? 14 units? 20 units? We needimore",
+        "information"
+      ],
+      "ocr_raw": "I= Eedi EB\nWhat is the area of the rectangle enclosed by the\nfollowing 4 lines?\nx=4 y=2 x=-1 y=6\n12 units? 14 units? 20 units? We needimore\ninformation",
+      "review_status": "needs_manual_review"
+    }
+  ]
+}

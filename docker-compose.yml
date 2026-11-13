@@ -1,0 +1,22 @@
+services:
+  edubridge-api:
+    build:
+      context: ./backend
+    container_name: edubridge-api
+    restart: unless-stopped
+    environment:
+      CDACDM_ARTIFACT_DIR: /app/artifacts
+      EEDI_CONTENT_PATH: /app/content/eedi_questions.json
+      EDUBRIDGE_API_KEY: ${EDUBRIDGE_API_KEY:?Set EDUBRIDGE_API_KEY in .env}
+      GEMINI_API_KEY: ${GEMINI_API_KEY:-}
+      CDACDM_SLM_ALLOW_REMOTE: "1"
+      EDUBRIDGE_CORS_ORIGINS: ${EDUBRIDGE_CORS_ORIGINS:-}
+    volumes:
+      - ./backend/content:/app/content:ro
+    ports:
+      - "127.0.0.1:8000:8000"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health', timeout=3)"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
