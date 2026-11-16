@@ -296,11 +296,23 @@ def submit_assessment(payload: AssessmentSubmitRequest, service: CDMService = De
         result = service.diagnose(pd.DataFrame(rows))
     except (ValueError, KeyError) as exc:
         raise HTTPException(status_code=422, detail=str(exc)) from exc
+    answered = sum(row["response"] is not None for row in rows)
+    correct_count = sum(row["response"] == 1 for row in rows)
+    incorrect_count = sum(row["response"] == 0 for row in rows)
+    incorrect_question_ids = [
+        int(row["QuestionId"]) for row in rows if row["response"] == 0
+    ]
+    score = round((correct_count / answered) * 100) if answered else None
+
     return {
         "assessment_id": "eedi_pdina_fixed_v1",
         "scoring": "server_side_answer_key",
-        "answered": sum(r["response"] is not None for r in rows),
+        "answered": answered,
         "submitted": len(rows),
+        "correct_count": correct_count,
+        "incorrect_count": incorrect_count,
+        "incorrect_question_ids": incorrect_question_ids,
+        "score": score,
         "diagnosis": service.report_json(result),
     }
 
